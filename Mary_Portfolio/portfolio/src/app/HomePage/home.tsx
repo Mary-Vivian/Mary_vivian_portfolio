@@ -25,7 +25,7 @@ const Hero: React.FC = () => {
     <div className="min-h-screen bg-black text-white p-8">
       <nav className="flex justify-between items-center mb-20">
         <div className="flex items-center">
-          <span className="text-2xl font-bold text-red-500">Desifolio</span>
+          <span className="text-2xl font-bold text-red-500">Portfolio</span>
         </div>
         
         <div className="hidden md:flex items-center space-x-8">
